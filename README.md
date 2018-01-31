@@ -162,6 +162,11 @@ Copy ‘bootstrap.js to ‘public\javascript’
 Open node project
 Change view->layout.jade html code
 Start the npm
+
+
+
+
+when i post a name, in server desp;ay "undefind" so i enter command "npm install body-parser --save" and solve the problem
  
 
 
